@@ -4,4 +4,4 @@ function HeaderClara() {
     )
 }
 
-export default MainHeader
+export default HeaderClara
